@@ -2,7 +2,7 @@
 Repository for todo lists.
 
 ## 2022-09
-| Sun | Mon | Tue | Wed | Tur | Fri | Sat |
+| Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
 |     |     |     |     |  [01](2022/09/01.md) |  02 |  03 |
 |  04 |  05 |  06 |  07 |  08 |  09 |  10 |
