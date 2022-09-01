@@ -1,1 +1,2 @@
-#todo
+# todo
+Repository for todo lists.
